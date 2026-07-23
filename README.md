@@ -17,7 +17,6 @@ order_items: Order item details
 genres: Genre information
 artists: Artist information
 
-
 Results: The output of the SQL queries and visualizations are located in the results/ directory.
 
 Tools Used:
